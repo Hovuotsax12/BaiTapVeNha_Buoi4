@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\NguyenHoangVuong__5951071124\NguyenHoangVuong__5951071124\bin\Debug\NguyenHoangVuong__5951071124.exe.config
+C:\Users\Admin\source\repos\NguyenHoangVuong__5951071124\NguyenHoangVuong__5951071124\bin\Debug\NguyenHoangVuong__5951071124.exe
+C:\Users\Admin\source\repos\NguyenHoangVuong__5951071124\NguyenHoangVuong__5951071124\bin\Debug\NguyenHoangVuong__5951071124.pdb
+C:\Users\Admin\source\repos\NguyenHoangVuong__5951071124\NguyenHoangVuong__5951071124\obj\Debug\NguyenHoangVuong__5951071124.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NguyenHoangVuong__5951071124\NguyenHoangVuong__5951071124\obj\Debug\NguyenHoangVuong__5951071124.Form1.resources
+C:\Users\Admin\source\repos\NguyenHoangVuong__5951071124\NguyenHoangVuong__5951071124\obj\Debug\NguyenHoangVuong__5951071124.Properties.Resources.resources
+C:\Users\Admin\source\repos\NguyenHoangVuong__5951071124\NguyenHoangVuong__5951071124\obj\Debug\NguyenHoangVuong__5951071124.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\NguyenHoangVuong__5951071124\NguyenHoangVuong__5951071124\obj\Debug\NguyenHoangVuong__5951071124.exe
+C:\Users\Admin\source\repos\NguyenHoangVuong__5951071124\NguyenHoangVuong__5951071124\obj\Debug\NguyenHoangVuong__5951071124.pdb
