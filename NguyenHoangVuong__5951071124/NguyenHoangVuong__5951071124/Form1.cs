@@ -102,7 +102,7 @@ namespace NguyenHoangVuong__5951071124
         private void ResetData()
         {
             txthosinhvien.Text = txttensinhvien.Text = txtsdt.Text = txtsbd.Text = txtdiachi.Text = "";
-
+            StudentID = 0;
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
@@ -138,6 +138,17 @@ namespace NguyenHoangVuong__5951071124
             {
                 this.Dispose();
             }
+        }
+
+        private void btnXacLap_Click(object sender, EventArgs e)
+        {
+            ResetData();
+        }
+
+        private void txtsdt_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!Char.IsDigit(e.KeyChar) && !Char.IsControl(e.KeyChar))
+                e.Handled = true;
         }
     }
 }

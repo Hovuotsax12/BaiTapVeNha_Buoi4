@@ -126,6 +126,7 @@
             this.txtsdt.Name = "txtsdt";
             this.txtsdt.Size = new System.Drawing.Size(242, 30);
             this.txtsdt.TabIndex = 1;
+            this.txtsdt.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtsdt_KeyPress);
             // 
             // btnThem
             // 
@@ -153,8 +154,9 @@
             this.btnXacLap.Name = "btnXacLap";
             this.btnXacLap.Size = new System.Drawing.Size(133, 58);
             this.btnXacLap.TabIndex = 2;
-            this.btnXacLap.Text = "Xác lập";
+            this.btnXacLap.Text = "ReLoad";
             this.btnXacLap.UseVisualStyleBackColor = true;
+            this.btnXacLap.Click += new System.EventHandler(this.btnXacLap_Click);
             // 
             // btnXoa
             // 
